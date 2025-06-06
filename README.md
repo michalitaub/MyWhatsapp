@@ -59,7 +59,7 @@ Users can create new groups, give them names and images, and chat within them.
 - React
 - JavaScript (ES6+)
 - CSS
-- JSONPlaceholder API
+
 
 ---
 
